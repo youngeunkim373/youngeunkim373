@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2> 안녕하세요. 프론트엔드 개발자 김영은입니다! <img src="https://media0.giphy.com/media/QvgH33MpVAq2SC1pWX/giphy.gif?cid=ecf05e47xf517n4doybxayqaw86c0sa6dkxwtm4nsttma8yy&rid=giphy.gif&ct=s" width="50"></h2>
+<img align='right' src="https://media4.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif?cid=ecf05e47k1447kbv5fowp4qh4tl9kxfrqyued1lgnj75xnuf&rid=giphy.gif&ct=s" width="230">
 
-<!--
-**youngeunkim373/youngeunkim373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 
 
-Here are some ideas to get you started:
+```javascript
+const zeroequaltwo = {
+  code: [Javascript, Typescript, HTML, CSS, MySQL, PHP],
+  tools: [React, Next.js, Node, Styled-Components, jQuery],
+  blog: "https://velog.io/@zeroequaltwo",
+  attitude: "Be better than yesterday"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
